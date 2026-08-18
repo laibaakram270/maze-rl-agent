@@ -6,6 +6,7 @@ Results:
 I trained both for 500 episodes.
 - Q-Learning learned way faster and got better rewards overall
 - DQN took longer but eventually figured out the maze too
+  
 Graph:
 https://drive.google.com/file/d/180bJuUueYWXU4tdtj2HPcL0FaftnmOhH/view?usp=drive_link
 
