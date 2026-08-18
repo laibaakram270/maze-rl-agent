@@ -1,4 +1,5 @@
 What is this?
+
 For the DevNexes "AI Agents with RL", I built a 10x10 maze and trained 2 different RL agents to solve it.
 The goal was simple: get from start to goal with the highest reward possible.
 I compared classic Q-Learning vs Deep Q-Network to see which one learns faster on a small maze.
