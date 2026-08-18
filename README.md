@@ -8,7 +8,7 @@ I trained both for 500 episodes.
 - DQN took longer but eventually figured out the maze too
   
 Graph:
-https://drive.google.com/file/d/180bJuUueYWXU4tdtj2HPcL0FaftnmOhH/view?usp=drive_link
+   ![Training Reward Graph](training_plot.png)
 
 Honestly Q-Learning worked better here because the maze is small and tabular. DQN is overkill but good to try.
 
