@@ -1,8 +1,6 @@
 What is this?
 
-For the DevNexes "AI Agents with RL", I built a 10x10 maze and trained 2 different RL agents to solve it.
-The goal was simple: get from start to goal with the highest reward possible.
-I compared classic Q-Learning vs Deep Q-Network to see which one learns faster on a small maze.
+For the DevNexes "AI Agents with RL", I built a 10x10 maze and trained 2 different RL agents to solve it. The goal was simple: get from start to goal with the highest reward possible. I compared classic Q-Learning vs Deep Q-Network to see which one learns faster on a small maze.
 Results:
 I trained both for 500 episodes.
 - Q-Learning learned way faster and got better rewards overall
