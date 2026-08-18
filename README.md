@@ -7,7 +7,7 @@ I trained both for 500 episodes.
 - DQN took longer but eventually figured out the maze too
 Graph:
 https://drive.google.com/file/d/180bJuUueYWXU4tdtj2HPcL0FaftnmOhH/view?usp=drive_link
-Honestly Q-Learning worked better here because the maze is small and tabular. DQN is overkill but good to try.
+ Honestly Q-Learning worked better here because the maze is small and tabular. DQN is overkill but good to try.
 Files in this repo
 - maze_env.py : The custom maze environment I made with gym
 - train_qlearning.py : Code to train Q-Learning agent
